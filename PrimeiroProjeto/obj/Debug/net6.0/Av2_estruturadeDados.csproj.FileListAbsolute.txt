@@ -1,0 +1,15 @@
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Av2_estruturadeDados.exe
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Av2_estruturadeDados.deps.json
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Av2_estruturadeDados.runtimeconfig.json
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Av2_estruturadeDados.dll
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\Av2_estruturadeDados.pdb
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.csproj.AssemblyReference.cache
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.AssemblyInfoInputs.cache
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.AssemblyInfo.cs
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.csproj.CoreCompileInputs.cache
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.dll
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\refint\Av2_estruturadeDados.dll
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.pdb
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\Av2_estruturadeDados.genruntimeconfig.cache
+C:\temp\projetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\Av2_estruturadeDados.dll
